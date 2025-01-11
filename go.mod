@@ -1,4 +1,4 @@
-module github.com/aleksakokorewa/auth
+module github.com/aleksakokorewa/cchat-server
 
 go 1.22
 
